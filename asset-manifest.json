@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/user-study-website/static/css/main.ff712a4e.css",
-    "main.js": "/user-study-website/static/js/main.929bc0d8.js",
-    "static/media/santander.png": "/user-study-website/static/media/santander.466b6c089b8b629b879a.png",
-    "static/media/eu_health.png": "/user-study-website/static/media/eu_health.53da49e773e6740d0512.png",
-    "static/media/zalando.png": "/user-study-website/static/media/zalando.f3b3388701489c91e7b6.png",
-    "index.html": "/user-study-website/index.html",
-    "main.ff712a4e.css.map": "/user-study-website/static/css/main.ff712a4e.css.map",
-    "main.929bc0d8.js.map": "/user-study-website/static/js/main.929bc0d8.js.map"
+    "main.css": "/user-study-website-baseline/static/css/main.ff712a4e.css",
+    "main.js": "/user-study-website-baseline/static/js/main.fd48c0eb.js",
+    "static/media/santander.png": "/user-study-website-baseline/static/media/santander.466b6c089b8b629b879a.png",
+    "static/media/eu_health.png": "/user-study-website-baseline/static/media/eu_health.53da49e773e6740d0512.png",
+    "static/media/zalando.png": "/user-study-website-baseline/static/media/zalando.f3b3388701489c91e7b6.png",
+    "index.html": "/user-study-website-baseline/index.html",
+    "main.ff712a4e.css.map": "/user-study-website-baseline/static/css/main.ff712a4e.css.map",
+    "main.fd48c0eb.js.map": "/user-study-website-baseline/static/js/main.fd48c0eb.js.map"
   },
   "entrypoints": [
     "static/css/main.ff712a4e.css",
-    "static/js/main.929bc0d8.js"
+    "static/js/main.fd48c0eb.js"
   ]
 }
