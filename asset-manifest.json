@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/user-study-website-1/static/css/main.ff712a4e.css",
-    "main.js": "/user-study-website-1/static/js/main.fbe8bcc9.js",
+    "main.css": "/user-study-website-1/static/css/main.448bd3b7.css",
+    "main.js": "/user-study-website-1/static/js/main.a5963dbc.js",
     "static/media/santander.png": "/user-study-website-1/static/media/santander.466b6c089b8b629b879a.png",
     "static/media/eu_health.png": "/user-study-website-1/static/media/eu_health.53da49e773e6740d0512.png",
     "static/media/zalando.png": "/user-study-website-1/static/media/zalando.f3b3388701489c91e7b6.png",
     "index.html": "/user-study-website-1/index.html",
-    "main.ff712a4e.css.map": "/user-study-website-1/static/css/main.ff712a4e.css.map",
-    "main.fbe8bcc9.js.map": "/user-study-website-1/static/js/main.fbe8bcc9.js.map"
+    "main.448bd3b7.css.map": "/user-study-website-1/static/css/main.448bd3b7.css.map",
+    "main.a5963dbc.js.map": "/user-study-website-1/static/js/main.a5963dbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff712a4e.css",
-    "static/js/main.fbe8bcc9.js"
+    "static/css/main.448bd3b7.css",
+    "static/js/main.a5963dbc.js"
   ]
 }
